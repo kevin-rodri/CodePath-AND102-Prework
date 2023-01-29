@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="bio">My name is Kevin Rodriguez, and I am a second-year student at Quinnipiac University. Currently, I am pursuing a bachelor\'s degree in Software Engineering, possibly adding a minor in Mathematics . </string>
+    <string name="button_text">Say Hi Back</string>
+</resources>
