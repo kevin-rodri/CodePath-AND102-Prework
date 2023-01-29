@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='Screen Recording 2023-01-28 at 8.58.45 PM.mov' title='Video Walkthrough' width='200px' alt='Video Walkthrough' />
+<img src='Kapture 2023-01-28 at 21.05.05.gif' title='Video Walkthrough' width='200px' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
